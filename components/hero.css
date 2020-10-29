@@ -26,6 +26,10 @@
     background: #4985FF;
     border-radius: 30px;
     padding: 13px 36px;
+    transition: 0.3s;
+}
+.hero__btn:hover{
+    
 }
 .hero .container{
     height: 900px;
