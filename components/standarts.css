@@ -1,0 +1,14 @@
+.standarts{
+    background: #f6f6f8;
+    padding-top: 152px;
+}
+.standarts__left{
+    max-width: 489px;
+}
+.standarts__discription{
+    margin: 40px 0 30px 0;
+    color: #999999;
+}
+.standarts__link:hover{
+    text-decoration: underline;
+}
