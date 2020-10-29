@@ -17,3 +17,6 @@
 .space-evnly{
     justify-content: space-evenly;
 }
+.flex-end{
+    justify-content: flex-end;
+}
