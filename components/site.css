@@ -1,5 +1,6 @@
 .site{
     text-align: center;
+    margin-top: 110px;
 }
 .site__suptitle{
     margin: 50px 0 70px 0;
@@ -9,4 +10,14 @@
 }
 .site__content{
     max-width: 222px;
+    padding-top: 50px;
+}
+.site__bigword{
+    font-size: 18px;
+    font-weight: 600;
+}
+.site__lilword{
+    margin-top: 12px;
+    font-size: 14px;
+    color: #999999;
 }
