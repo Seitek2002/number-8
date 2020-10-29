@@ -1,3 +1,12 @@
 .site{
     text-align: center;
 }
+.site__suptitle{
+    margin: 50px 0 70px 0;
+}
+.site__box{
+    max-width: 353px;
+}
+.site__content{
+    max-width: 222px;
+}
