@@ -3,4 +3,5 @@
     background: url(./img/head_bg.png) center no-repeat;
     text-align: center;
     color: white;
+    min-height: 900px;
 }
