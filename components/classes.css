@@ -27,3 +27,7 @@
     padding: 13px 36px;
     transition: 0.3s;
 }
+.blue__btn:hover{
+    color: #4985FF;
+    background: white;
+}

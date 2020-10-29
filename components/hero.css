@@ -20,10 +20,6 @@
     font-weight: 800;
     margin: 20px 0 50px 0;
 }
-.hero__btn:hover{
-    color: #4985FF;
-    background: white;
-}
 .hero .container{
     height: 900px;
     align-items: center;
