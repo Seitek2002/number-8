@@ -1,6 +1,7 @@
 .header{
     font-family: 'Montserrat', sans-serif;
 }
-.header__item{
+.header__links{
     color: white;
+    padding: 0 20px;
 }
