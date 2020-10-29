@@ -20,3 +20,10 @@
 .flex-end{
     justify-content: flex-end;
 }
+.blue__btn{
+    color: white;
+    background: #4985FF;
+    border-radius: 30px;
+    padding: 13px 36px;
+    transition: 0.3s;
+}
