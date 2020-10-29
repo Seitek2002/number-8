@@ -1,3 +1,6 @@
+.blue-section{
+    min-height: 1000px;
+}
 .blue-line{
     background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%), #C4C4C4;
     max-height: 400px;
