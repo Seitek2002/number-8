@@ -5,3 +5,8 @@
     color: white;
     padding: 0 20px;
 }
+.header__lists{
+    border-bottom: 10px solid #A1A1A1;
+    min-height: 100px;
+    padding-top: 40px;
+}

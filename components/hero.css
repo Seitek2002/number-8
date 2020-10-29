@@ -1,9 +1,13 @@
 .hero{
     font-family: 'Montserrat', sans-serif;
-    background: url(./img/head_bg.png) center no-repeat;
+    background: url(./img/head_bg.png) no-repeat;
+    background-size: contain;
     text-align: center;
     color: white;
     min-height: 900px;
+    padding-top: 200px;
+    box-sizing: border-box;
+    margin-top: -182px;
 }
 .hero__content{
     margin: auto;
@@ -16,6 +20,7 @@
 .hero__title{
     font-size: 48px;
     font-weight: 800;
+    margin: 20px 0 50px 0;
 }
 .hero__btn{
     color: white;
@@ -23,4 +28,8 @@
     box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
     border-radius: 30px;
     padding: 13px 36px;
+}
+.hero .container{
+    height: 900px;
+    align-items: center;
 }
