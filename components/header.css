@@ -1,12 +1,37 @@
 .header{
     font-family: 'Montserrat', sans-serif;
+    position: relative;
+}
+.header::before{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 1px;
+    background: #A1A1A1;
+    top: 120px;
+    left: 0;
 }
 .header__links{
     color: white;
     padding: 0 20px;
 }
+.header__item{
+    position: relative;
+    padding-bottom: 60px;
+}
+.header__item::before{
+    content: "";
+    position: absolute;
+    width: 0px;
+    height: 2px;
+    background: white;
+    top: 80px;
+    transition: 0.3s;
+}
+.header__item:hover::before{
+    width: 100%;
+}
 .header__lists{
-    border-bottom: 10px solid #A1A1A1;
     min-height: 100px;
     padding-top: 40px;
 }
