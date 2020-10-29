@@ -26,6 +26,7 @@
     border-radius: 30px;
     padding: 13px 36px;
     transition: 0.3s;
+    height: 20px;
 }
 .blue__btn:hover{
     color: #4985FF;
