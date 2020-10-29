@@ -1,4 +1,6 @@
 .hero{
+    font-family: 'Montserrat', sans-serif;
     background: url(./img/head_bg.png) center no-repeat;
     text-align: center;
+    color: white;
 }
