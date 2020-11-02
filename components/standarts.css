@@ -32,3 +32,9 @@
     padding: 70px 0 70px 0;
     border-top: 1px solid #e0e0e0;
 }
+.standarts__right{
+    max-width: 500px;
+}
+.standarts__img{
+    width: 100%;
+}
