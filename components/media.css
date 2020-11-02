@@ -1,3 +1,8 @@
+@media screen and (max-width: 425px){
+    .subscribe__input{
+        border-radius: 100px;
+    }
+}
 @media screen and (max-width: 320px){
     .upper__title{
         font-size: 29px;
