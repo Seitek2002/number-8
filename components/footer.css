@@ -5,9 +5,11 @@
 }
 .footer .container{
     border-bottom: 1px solid #E0E0E0;
+    padding: 70px 0 70px 0;
 }
 .footer__title{
     color: black;
 }
 .footer__li{
+    margin-top: 30px;
 }
