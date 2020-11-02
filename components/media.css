@@ -2,6 +2,7 @@
     .subscribe__input,
     .subscribe__btn{
         border-radius: 100px;
+        margin-top: 20px;
     }
 }
 @media screen and (max-width: 320px){
