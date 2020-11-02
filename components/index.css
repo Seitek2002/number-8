@@ -2,7 +2,6 @@
 @import "./base.css";
 @import "./classes.css";
 @import "./header.css";
-@import "./hero.css";
 @import './site.css';
 @import './standarts.css';
 @import './projects.css';
@@ -10,3 +9,4 @@
 @import './subscribe.css';
 @import './footer.css';
 @import './blue-section.css';
+@import './media.css';
