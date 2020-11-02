@@ -18,3 +18,27 @@
     background: url(./img/head_bg.png) center no-repeat;
     min-height: 570px;
 }
+.video__player{
+    background: url(./img/video.png) center no-repeat;
+    max-width: 970px;
+    margin: auto;
+    margin-top: -400px;
+    min-height: 430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.video__button{
+    max-width: 300px;
+    border: 1px solid white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 20px 30px 20px 0;
+    transition: 0.3s;
+}
+.button__img{
+    padding: 0 21px 0 40px;
+}
