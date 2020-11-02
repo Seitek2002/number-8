@@ -12,13 +12,27 @@
     font-weight: 400;
     margin-top: 10px;
     margin-bottom: 15px;
+    color: #999999;
 }
 .subscribe__mail{
     margin-top: 15px;
     margin-bottom: 20px;
 }
+.subscribe__input{
+    padding: 15px 0 15px 33px;
+    max-width: 299px;
+}
+.subscribe__btn{
+    padding: 13px 36px 15px 26px;
+    max-width: 190px;
+    background: #4985FF;
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 0px 30px 30px 0px;
+    color: white;
+}
 .subscribe__alert{
     font-size: 13px;
     font-weight: 400;
     margin-bottom: 15px;
+    color: #999999;
 }
