@@ -1,5 +1,6 @@
 @media screen and (max-width: 425px){
-    .subscribe__input{
+    .subscribe__input,
+    .subscribe__btn{
         border-radius: 100px;
     }
 }
