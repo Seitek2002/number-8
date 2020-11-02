@@ -4,6 +4,30 @@
     color: white;
     text-align: center;
 }
+.header .container{
+    justify-content: flex-end;
+}
+.header__list{
+    padding: 40px 0 40px 0;
+    border-bottom: 1px solid #A1A1A1;
+}
+.header__nav{
+    padding: 0 20px 0 20px;
+    position: relative;
+}
+.header__nav::before{
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: 0.3s;
+    left: 0;
+    top: 58px;
+}
+.header__nav:hover::before{
+    width: 100%;
+}
 .header__link{
     color: white;
 }
