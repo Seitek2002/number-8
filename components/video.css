@@ -39,6 +39,16 @@
     padding: 20px 30px 20px 0;
     transition: 0.3s;
 }
+.video__button:hover{
+    background-color: #fff;
+    color: #4985FF;
+}
+.video__button:hover .button__path{
+    fill: #4985FF;
+}
+.video__button:hover .button__circle{
+    fill: white;
+}
 .button__img{
     padding: 0 21px 0 40px;
 }
