@@ -1,0 +1,18 @@
+.subscribe{
+    margin-top: 85px;
+    text-align: center;
+}
+.subscribe__title{
+    margin-bottom: 10px;
+}
+.subscribe__suptitle{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.subscribe__mail{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.subscribe__alert{
+    margin-bottom: 15px;
+}
