@@ -1,0 +1,7 @@
+.video{
+    background: url(./img/head_bg.png) center no-repeat;
+    background-size: cover;
+}
+.video__player{
+    background: url(./img/video.png) center no-repeat;
+}
