@@ -8,3 +8,22 @@
     max-width: 540px;
     font-size: 36px;
 }
+.blue__bottom{
+    margin-top: -350px;
+}
+.bottom__box{
+    max-width: 350px;
+    margin-top: 50px;
+}
+.bottom__title{
+    font-size: 18px;
+    margin: 30px 0 30px 0;
+}
+.blue-number{
+    color: #4985FF;
+}
+.bottom__description{
+    font-size: 16px;
+    color: #999999;
+    margin: 0 0 30px 0;
+}
