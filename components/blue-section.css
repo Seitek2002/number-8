@@ -1,0 +1,10 @@
+.blue__upper{
+    background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%);
+    color: white;
+    padding-top: 100px;
+    min-height: 490px;
+}
+.blue__title{
+    max-width: 540px;
+    font-size: 36px;
+}

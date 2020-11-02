@@ -2,8 +2,13 @@
     text-align: center;
     margin-top: 110px;
 }
+.site__title{
+    color: #323232;
+    font-size: 36px;
+}
 .site__suptitle{
     margin: 50px 0 70px 0;
+    color: #999999;
 }
 .site__box{
     max-width: 353px;

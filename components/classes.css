@@ -28,6 +28,8 @@
     transition: 0.3s;
     height: 20px;
     box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .blue__btn:hover{
     color: #4985FF;
