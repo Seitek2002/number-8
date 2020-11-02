@@ -11,6 +11,9 @@
 .blue__bottom{
     margin-top: -350px;
 }
+.blue__img{
+    width: 100%;
+}
 .bottom__box{
     max-width: 350px;
     margin-top: 50px;
