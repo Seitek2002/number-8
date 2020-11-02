@@ -1,6 +1,26 @@
 .header{
     background: url(./img/head_bg.png) center no-repeat;
+    min-height: 900px;
+    color: white;
+    text-align: center;
 }
 .header__link{
     color: white;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+    flex-direction: column;
+    max-width: 829px;
+    margin: auto;
+}
+.hero__suptitle{
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.hero__title{
+    font-size: 48px;
+    margin-bottom: 25px;
 }
