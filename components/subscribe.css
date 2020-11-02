@@ -3,9 +3,13 @@
     text-align: center;
 }
 .subscribe__title{
+    font-size: 18px;
+    font-weight: 600;
     margin-bottom: 10px;
 }
 .subscribe__suptitle{
+    font-size: 16px;
+    font-weight: 400;
     margin-top: 10px;
     margin-bottom: 15px;
 }
@@ -14,5 +18,7 @@
     margin-bottom: 20px;
 }
 .subscribe__alert{
+    font-size: 13px;
+    font-weight: 400;
     margin-bottom: 15px;
 }
