@@ -15,11 +15,11 @@
 }
 .video__upper{
     padding-top: 70px;
-    background: url(./img/head_bg.png) center no-repeat;
+    background: url(./img/head_bg.webp) center no-repeat;
     min-height: 570px;
 }
 .video__player{
-    background: url(./img/video.png) center no-repeat;
+    background: url(./img/video.webp) center no-repeat;
     max-width: 970px;
     margin: auto;
     margin-top: -400px;
