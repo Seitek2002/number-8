@@ -1,5 +1,6 @@
 .header{
-    color: white;
+    position: absolute;
+    width: 100%;
 }
 .header .container{
     justify-content: flex-end;
@@ -9,7 +10,6 @@
 }
 .header__nav{
     padding: 0 20px 0 20px;
-    position: relative;
 }
 .header__link{
     color: white;
@@ -20,9 +20,13 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    max-width: 829px;
-    margin: auto;
     text-align: center;
+    margin: auto;
+    height: 100vh;
+}
+.hero__content{
+    max-width: 829px;
+    color: white;
 }
 .hero__suptitle{
     font-size: 16px;
