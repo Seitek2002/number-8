@@ -9,4 +9,7 @@
     .upper__title{
         font-size: 25px;
     }
+    .header{
+        display: none;
+    }
 }
