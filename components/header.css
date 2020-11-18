@@ -1,44 +1,28 @@
 .header{
-    background: url(./img/head_bg.webp) center no-repeat;
-    min-height: 900px;
     color: white;
-    text-align: center;
 }
 .header .container{
     justify-content: flex-end;
 }
 .header__list{
     padding: 40px 0 40px 0;
-    border-bottom: 1px solid #A1A1A1;
 }
 .header__nav{
     padding: 0 20px 0 20px;
     position: relative;
 }
-.header__nav::before{
-    position: absolute;
-    content: "";
-    width: 0;
-    height: 2px;
-    background: #fff;
-    transition: 0.3s;
-    left: 0;
-    top: 58px;
-}
-.header__nav:hover::before{
-    width: 100%;
-}
 .header__link{
     color: white;
 }
 .hero{
+    background: url(./img/head_bg.webp) center no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 800px;
     flex-direction: column;
     max-width: 829px;
     margin: auto;
+    text-align: center;
 }
 .hero__suptitle{
     font-size: 16px;
