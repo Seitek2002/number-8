@@ -10,7 +10,6 @@
     padding: 40px 0 40px 0;
 }
 .header__nav{
-    padding: 0 20px 0 20px;
     position: relative;
 }
 .header__nav::before{
@@ -28,6 +27,7 @@
 }
 .header__link{
     color: white;
+    padding: 40px 20px 40px 20px;
 }
 .hero{
     background: url(./img/head_bg.webp) center no-repeat;
