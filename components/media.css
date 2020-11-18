@@ -1,15 +1,1 @@
-@media screen and (max-width: 425px){
-    .subscribe__input,
-    .subscribe__btn{
-        border-radius: 100px;
-        margin-top: 20px;
-    }
-}
-@media screen and (max-width: 320px){
-    .upper__title{
-        font-size: 25px;
-    }
-    .header{
-        display: none;
-    }
-}
+@media screen and (max-width:425px){.subscribe__input,.subscribe__btn{border-radius:100px;margin-top:20px}}@media screen and (max-width:320px){.upper__title{font-size:25px}.header{display:none}}
